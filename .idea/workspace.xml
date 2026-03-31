@@ -21,7 +21,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfeb0c39-5a3e-41f7-99cf-512f7c7ff67d" name="Changes" comment="" />
+    <list default="true" id="bfeb0c39-5a3e-41f7-99cf-512f7c7ff67d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,12 +42,12 @@
     &quot;assignee&quot;: &quot;MartinoVolpato&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MartinoVolpato/ESERCIZIO_1.git&quot;,
-    &quot;accountId&quot;: &quot;a4e0b144-05ad-410c-82c5-5d7528d7355d&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MartinoVolpato/ESERCIZIO_12.git",
+    "accountId": "a4e0b144-05ad-410c-82c5-5d7528d7355d"
   }
-}</component>
+}]]></component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2025" />
@@ -72,6 +74,7 @@
     "RunOnceActivity.west.config.association.type.startup.service": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Utente/CLionProjects/ESERCIZIO_12",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -102,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774943343517</updated>
       <workItem from="1774943344542" duration="2147000" />
-      <workItem from="1774946969315" duration="76000" />
+      <workItem from="1774946969315" duration="114000" />
     </task>
     <servers />
   </component>

@@ -5,6 +5,7 @@ int f3(void) {
     printf("num7 = %p\n", (void*)&num7);
     printf("car8 = %p\n", (void*)&car8);
     return 0;
+    //
 }
 
 int f2(void) {
